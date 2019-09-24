@@ -1,5 +1,6 @@
 def reverse_each_word(string)
-  loop = string
+  Array.new = string
+  loop = string.length
   word = ''
   while loop > 0 
   loop -= 1
@@ -14,6 +15,5 @@ end
 def sentence2
   puts "Hi again, just making sure it's reversed!"
 end
-reverse_each_word(sentence1)
-reverse_each_word(sentence2)
+
  
