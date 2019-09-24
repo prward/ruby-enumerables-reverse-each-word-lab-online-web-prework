@@ -14,4 +14,6 @@ end
 def sentence2
   puts "Hi again, just making sure it's reversed!"
 end
+reverse_each_word(sentence1)
+reverse_each_word(sentence2)
  
