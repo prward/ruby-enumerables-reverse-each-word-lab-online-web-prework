@@ -8,5 +8,9 @@ end
 end
 
 def sentence1
+  puts "Hello there, and how are you?"
+end
+
+def sentence2
   puts 
  
