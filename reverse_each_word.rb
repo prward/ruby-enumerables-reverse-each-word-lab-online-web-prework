@@ -12,5 +12,6 @@ def sentence1
 end
 
 def sentence2
-  puts 
+  puts "Hi again, just making sure it's reversed!"
+end
  
