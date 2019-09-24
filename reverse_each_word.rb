@@ -3,4 +3,4 @@ def reverse_each_word {
   sentence2: %w["Hi again, just making sure it's reversed!"]
 }
 
-reverse_each_word.collect() {|n|
+reverse_each_word.collect() do {||
