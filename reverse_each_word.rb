@@ -7,5 +7,6 @@ def reverse_each_word(string)
 end
 end
 
-reverse_each_word(sentence1)
+def sentence1
+  puts 
  
