@@ -1,5 +1,5 @@
 def reverse_each_word(string)
-  loop = string.length
+  loop = string
   word = ''
   while loop > 0 
   loop -= 1
