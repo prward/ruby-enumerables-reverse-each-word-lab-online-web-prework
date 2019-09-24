@@ -5,4 +5,5 @@ def reverse_each_word(string)
   loop -= 1
   word += string[loop]
 end
+end
  
